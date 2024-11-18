@@ -1,0 +1,22 @@
+flashtext
+git+https://github.com/boudinfl/pke.git
+transformers
+sentence_transformers
+sentencepiece
+sentence_transformers
+nltk
+spacy
+pywsd
+requests
+gensim
+pyPDF2
+google
+google.generativeai
+reportlab
+streamlit
+sense2vec
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-{version}/en_core_web_sm-{version}.tar.gz
+scikit-learn
+torch
+torchvision
+textblob
